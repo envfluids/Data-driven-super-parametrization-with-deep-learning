@@ -4,7 +4,7 @@ To make weather and climate models computationally affordable, small-scale proce
 
 ## Citation
 - Chattopadhyay, A., Subel, A., & Hassanzadeh, P. (2020). Data-driven super-parameterization using deep learning: Experimentation with multiscale Lorenz 96 systems and transfer learning. Journal of Advances in Modeling Earth Systems, 12, e2020MS002084.([url](https://doi.org/10.1029/2020MS002084))<details><summary>BibTeX</summary><pre>
-@article { chattopadhyay_JAMES_2020,
+@article { Chattopadhyay_JAMES_2020,
   title={Data-Driven Super-Parameterization Using Deep Learning: Experimentation With Multiscale Lorenz 96 Systems and Transfer Learning},
   author={Chattopadhyay, Ashesh and Subel, Adam and Hassanzadeh, Pedram},
   journal={Journal of Advances in Modeling Earth Systems},
